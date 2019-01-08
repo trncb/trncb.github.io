@@ -4,7 +4,7 @@ post_title: Now
 author: Terence Brown
 post_excerpt: ""
 layout: page
-permalink: https://trnc.co/now/
+permalink: now/
 published: true
 post_date: 2018-05-23 16:47:45
 ---

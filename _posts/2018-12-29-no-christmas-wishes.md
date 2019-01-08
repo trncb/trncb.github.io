@@ -4,7 +4,7 @@ post_title: No Christmas Wishes
 author: Terence Brown
 post_excerpt: "I didn't wish anyone Merry Christmas this year. Does that make me a bad person?"
 layout: post
-permalink: https://trnc.co/no-christmas-wishes/
+permalink: no-christmas-wishes/
 published: true
 post_date: 2018-12-29 08:26:45
 ---
